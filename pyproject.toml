@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "supertool-cli"
 version = "0.1.1"  # Bump version to 0.1.1 for PyPI updates
 authors = [
-    { name = "Emmanuel Ibeh", email = "your-email@example.com" }
+    { name = "Emmanuel Ibeh", email = "emmacibeh@gmail.com" }
 ]
 description = "A production-grade CLI suite for path operations, task execution, data transformation, and configuration management."
 readme = "README.md"  # <-- THIS tells PyPI to render your README.md as the project description
