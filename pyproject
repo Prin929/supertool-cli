@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "supertool-cli"
+version = "0.1.0"
+description = "A production-grade CLI suite for path operations, task execution, data transformation, and configuration management."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Your Name", email = "you@example.com" }]
+dependencies = []
+
+[project.scripts]
+supertool = "supertool.main:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

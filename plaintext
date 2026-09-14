@@ -1,0 +1,14 @@
+supertool/
+│── src/
+│   └── supertool/
+│       ├── __init__.py
+│       ├── main.py
+│       ├── super_path.py
+│       ├── cli_config_engine.py
+│       ├── async_task_runner.py
+│       └── data_transformer.py
+│── tests/
+│   └── test_supertool.py
+│── pyproject.toml
+│── README.md
+└── LICENSE

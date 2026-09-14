@@ -1,0 +1,8 @@
+# supertool-cli
+
+A production-grade CLI suite integrating file system utilities, asynchronous task execution, CSV/JSON data transformations, and hierarchical configuration management.
+
+## Installation
+
+```bash
+pip install supertool-cli
